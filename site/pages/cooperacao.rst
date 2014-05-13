@@ -16,57 +16,54 @@ associados ao laboratório. Recebe professores e pesquisadores para visitas de c
 ou longa duração, dependendo da natureza do convênio estabelecido entre as instituições.
 
 .. raw:: html
+    <div class="content">
+        <div class="container-fluid">
 
-        <div class="content">
-      <div class="container-fluid">
-        <div class="row bottom-space">
-          <div class="span6">
-            <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
-            <p>
-              Short discription about your patnet.Short discription about your patnet.
-              Short discription about your patnet.Short discription about your patnet.
-            </p>
-          </div>
-          <div class="span6">
-            <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
-            <p>
-              Short discription about your patnet.Short discription about your patnet.
-              Short discription about your patnet.Short discription about your patnet.
-            </p>
-          </div>
+            <div class="row bottom-space">
+                <div class="span6">
+                    <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
+                    <p>
+                        1 Short description about your partner.
+                    </p>
+                </div>
+
+                <div class="span6">
+                    <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
+                    <p>
+                        2 Short description about your partner.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row bottom-space">
+                <div class="span6">
+                    <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
+                    <p>
+                        3 Short description about your partner.
+                    </p>
+                </div>
+                <div class="span6">
+                    <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
+                    <p>
+                        4 Short description about your partner.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="span6">
+                    <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
+                    <p>
+                        5 Short description about your partner.
+                    </p>
+                </div>
+                <div class="span6">
+                    <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
+                    <p>
+                        6 Short description about your partner.
+                    </p>
+                </div>
+            </div>
+
         </div>
-        <div class="row bottom-space">
-          <div class="span6">
-            <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
-            <p>
-              Short discription about your patnet.Short discription about your patnet.
-              Short discription about your patnet.Short discription about your patnet.
-            </p>
-          </div>
-          <div class="span6">
-            <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
-            <p>
-              Short discription about your patnet.Short discription about your patnet.
-              Short discription about your patnet.Short discription about your patnet.
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="span6">
-            <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
-            <p>
-              Short discription about your patnet.Short discription about your patnet.
-              Short discription about your patnet.Short discription about your patnet.
-            </p>
-          </div>
-          <div class="span6">
-            <a href="#"><img src="http://placehold.it/200x100" class="bottom-space-less thumbnail"></a>
-            <p>
-              Short discription about your patnet.Short discription about your patnet.
-              Short discription about your patnet.Short discription about your patnet.
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
-

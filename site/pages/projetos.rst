@@ -197,9 +197,7 @@ científicas às demandas e necessidades de investidores e parceiros.
                             Georreferenciamento de Processos Judiciais
                         </h3>
                         <p>
-                            Georreferenciamento de Processos Judiciais Georreferenciamento de Processos Judiciais
-                            Georreferenciamento de Processos Judiciais Georreferenciamento de Processos Judiciais
-                            Georreferenciamento de Processos Judiciais Georreferenciamento de Processos Judiciais
+                            Georreferenciamento de Processos Judiciais
                         </p>
                     </div>
             </div>
@@ -213,10 +211,6 @@ científicas às demandas e necessidades de investidores e parceiros.
                         Mapas de volume de processos judiciais
                     </h3>
                     <p>
-                        Mapas de volume de processos judiciais Mapas de volume de processos judiciais
-                        Mapas de volume de processos judiciais Mapas de volume de processos judiciais
-                        Mapas de volume de processos judiciais Mapas de volume de processos judiciais
-                        Mapas de volume de processos judiciais Mapas de volume de processos judiciais
                         Mapas de volume de processos judiciais Mapas de volume de processos judiciais
                     </p>
                 </div>
@@ -236,11 +230,7 @@ científicas às demandas e necessidades de investidores e parceiros.
                             Georreferenciamento de processos judiciais
                         </h3>
                         <p>
-                            Georreferenciamento de processos judiciais Georreferenciamento de processos judiciais
-                            Georreferenciamento de processos judiciais Georreferenciamento de processos judiciais
-                            Georreferenciamento de processos judiciais Georreferenciamento de processos judiciais
-                            Georreferenciamento de processos judiciais Georreferenciamento de processos judiciais
-                            Georreferenciamento de processos judiciais Georreferenciamento de processos judiciais
+                            Georreferenciamento de processos judiciais
                         </p>
                     </div>
             </div>
@@ -253,10 +243,6 @@ científicas às demandas e necessidades de investidores e parceiros.
                         Modelagem de Litígio de Consumo
                     </h3>
                     <p>
-                        Modelagem de Litígio de Consumo Modelagem de Litígio de Consumo
-                        Modelagem de Litígio de Consumo Modelagem de Litígio de Consumo
-                        Modelagem de Litígio de Consumo Modelagem de Litígio de Consumo
-                        Modelagem de Litígio de Consumo Modelagem de Litígio de Consumo
                         Modelagem de Litígio de Consumo Modelagem de Litígio de Consumo
                     </p>
                 </div>
@@ -277,11 +263,6 @@ científicas às demandas e necessidades de investidores e parceiros.
                         </h3>
                         <p>
                             Estudo de padrões de decisões do Ministro do Supremo Tribunal Federal
-                            Estudo de padrões de decisões do Ministro do Supremo Tribunal Federal
-                            Estudo de padrões de decisões do Ministro do Supremo Tribunal Federal
-                            Estudo de padrões de decisões do Ministro do Supremo Tribunal Federal
-                            Estudo de padrões de decisões do Ministro do Supremo Tribunal Federal
-                            Estudo de padrões de decisões do Ministro do Supremo Tribunal Federal
                         </p>
                     </div>
             </div>
@@ -294,11 +275,7 @@ científicas às demandas e necessidades de investidores e parceiros.
                           Análise de Discurso do mensalão
                     </h3>
                     <p>
-                          Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                            Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                              Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                                Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                                  Análise de Discurso do mensalão   Análise de Discurso do mensalão
+                          Análise de Discurso do mensalão
                     </p>
                 </div>
                 <div class="span5">
@@ -317,11 +294,7 @@ científicas às demandas e necessidades de investidores e parceiros.
                             Modelagem de Epidemias
                         </h3>
                         <p>
-                            Modelagem de Epidemias Modelagem de Epidemias Modelagem de Epidemias
-                            Modelagem de Epidemias Modelagem de Epidemias Modelagem de Epidemias
-                            Modelagem de Epidemias Modelagem de Epidemias Modelagem de Epidemias
-                            Modelagem de Epidemias Modelagem de Epidemias Modelagem de Epidemias
-                            Modelagem de Epidemias Modelagem de Epidemias Modelagem de Epidemias
+                            Modelagem de Epidemias
                         </p>
                     </div>
             </div>
@@ -334,11 +307,7 @@ científicas às demandas e necessidades de investidores e parceiros.
                           Zangões
                     </h3>
                     <p>
-                          Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                            Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                              Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                                Análise de Discurso do mensalão   Análise de Discurso do mensalão
-                                  Análise de Discurso do mensalão   Análise de Discurso do mensalão
+                          Análise de Discurso do mensalão
                     </p>
                 </div>
                 <div class="span5">

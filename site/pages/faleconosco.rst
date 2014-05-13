@@ -5,29 +5,20 @@
 .. title: Fale Conosco
 .. slug: faleconosco
 
-O NAMD está localizado no prédio da FGV (Fundação Getúlio Vargas) na Praia de Botafogo, 190 - 3º andar.
-A estação do metrô mais próxima é a do *Flamengo*.
-
 .. raw:: html
 
     <div class="row">
         <div class="col-sm-12 col-lg-12">
             <div class="panel">
                 <div class="panel-heading">
-                    <h3><i class="icon-map-marker main-color"></i> Location</h3>
+                    <h3><i class="icon-map-marker main-color"></i>Localização</h3>
                 </div>
-                <div class="panel-body">
-                    <!-- gMap script container !Do not remove!! -->
-                    <div id="map"></div>
-                    <!-- gMap script container !Do not remove!! -->
-                </div>
+
             </div>
         </div>
     </div>
-    
-.. raw:: html
 
-    <!--
+.. raw:: html
 
     <iframe width="960" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
     src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=FGV+-+Funda%C3%A7%C3%A3o+Getulio+
@@ -46,19 +37,29 @@ A estação do metrô mais próxima é a do *Flamengo*.
     <br /><br />
 
     <iframe src="https://docs.google.com/forms/d/1juhT4YWuqkUs6QXy-3lIpsbp7TOMgLKuSpJZ_vsedlY/viewform?embedded=true"
-    width="760" height="760" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>
+    width="960" height="760" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>
 
-        <h3>Endereço</h3>
-            <address>
-                <strong>Fundação Getúlio Vargas</strong><br>
-                <strong>Escola de Matemática Aplicada</strong><br>
-                <strong>Namd - Núcleo de Análise e Modelagem de Dados</strong><br>
-                Praia de Botafogo, 190<br>
-                Rio de Janeiro, RJ 22250-145, Brasil<br>
-                <abbr title="Phone">Tel.:</abbr> +55 21 3799-4747
-            </address>
-            <address>
-                <strong>Namd</strong><br>
+.. raw:: html
+
+    <div class="row">
+        <div class="col-sm-12 col-lg-12">
+            <div class="panel">
+                <div class="panel-heading">
+                    <h3><i class="icon-map-marker main-color"></i>Endereço</h3>
+                    <address>
+            <strong>Fundação Getúlio Vargas</strong><br>
+            <strong>Escola de Matemática Aplicada</strong><br>
+            <strong>Namd - Núcleo de Análise e Modelagem de Dados</strong><br>
+            Praia de Botafogo, 190<br>
+            Rio de Janeiro, RJ 22250-145, Brasil<br>
+            <abbr title="Phone">Tel.:</abbr> +55 21 3799-4747
+        </address>
+        <address>
+            <strong>Namd</strong><br>
                 <a href="mailto:#">namdemapfgv@gmail.com</a>
-            </address>
-    -->
+        </address>
+                </div>
+
+            </div>
+        </div>
+    </div>

@@ -23,8 +23,7 @@
                             Processamento de Linguagem Natural
                         </h3>
                         <p>
-                            Processamento de Linguagem Natural Processamento de Linguagem Natural
-                            Processamento de Linguagem Natural Processamento de Linguagem Natural
+                            Processamento de Linguagem Natural
                         </p>
                     </div>
             </div>
@@ -37,9 +36,7 @@
                         Big Data
                     </h3>
                     <p>
-                        Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big
-                        Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big DataData Big Data
-                         Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big Data Big Data
+                        Big Data
                     </p>
                 </div>
                 <div class="span5">
@@ -58,9 +55,7 @@
                             Modelagem matemática da dinâmica complexa de populações
                         </h3>
                         <p>
-                            Modelagem matemática da dinâmica complexa de populações Modelagem matemática da dinâmica complexa de populações
-                            Modelagem matemática da dinâmica complexa de populações Modelagem matemática da dinâmica complexa de populações
-                            Modelagem matemática da dinâmica complexa de populações Modelagem matemática da dinâmica complexa de populações
+                            Modelagem matemática da dinâmica complexa de populações
                         </p>
                     </div>
             </div>
@@ -73,9 +68,7 @@
                         Técnicas de Recuperação de Informação
                     </h3>
                     <p>
-                        Técnicas de Recuperação de Informação Técnicas de Recuperação de Informação Técnicas de Recuperação de Informação
-                        Técnicas de Recuperação de Informação Técnicas de Recuperação de Informação Técnicas de Recuperação de Informação
-                        Técnicas de Recuperação de Informação Técnicas de Recuperação de Informação Técnicas de Recuperação de Informação
+                        Técnicas de Recuperação de Informação
                     </p>
                 </div>
                 <div class="span5">

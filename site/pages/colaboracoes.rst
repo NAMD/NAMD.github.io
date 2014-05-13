@@ -28,7 +28,7 @@
                                 <li><strong>Cargo:</strong> Professor Associado</li>
                                 <li>Email: fccoelho@fgv.br</li>
                                 <li>Homepage: http://fccoelho.github.com </li>
-                                <li>Lattes: http://lattes.cnpq.br/0309050626285266 </li>
+                                <li>Lattes: <a href="http://lattes.cnpq.br/0309050626285266">http://lattes.cnpq.br/0309050626285266</a></li>
                                 <ul>
                             </p>
                         </div>
@@ -49,7 +49,7 @@
                                 <ul>
                                 <li>Cargo: Professor Adjunto</li>
                                 <li>Email: renato.souza@fgv.br</li>
-                                <li>Lattes: http://lattes.cnpq.br/4726949697973381 </li>
+                                <li>Lattes: <a href="http://lattes.cnpq.br/4726949697973381">http://lattes.cnpq.br/4726949697973381</a></li>
                                 <ul>
                             </p>
                         </div>
@@ -73,7 +73,7 @@
                                 de Berlin.
                                 <ul>
                                 <li>Email: xxxx.xxxx@fgv.br</li>
-                                <li>Lattes: http://lattes.cnpq.br/5509633772039636 </li>
+                                <li>Lattes: <a href="http://lattes.cnpq.br/0309050626285266">http://lattes.cnpq.br/0309050626285266</a> http://lattes.cnpq.br/5509633772039636 </li>
                                 <li>Projetos: Alerta Dengue </li>
                                 <ul>
                             </p>
@@ -142,13 +142,10 @@
                         <div class="span8">
                             <h3>Elisa Mussumeci</h3>
                             <p class="team-member-description">
-                                Short discription about your team member.Short discription about your team member.
-                                Short discription about your team member.Short discription about your team member.
-                                Short discription about your team member.Short discription about your team member.
                                 <ul
                                 <li>Email: xxxx.xxxx@fgv.br</li>
-                                <li>Lattes: <a href="http://lattes.cnpq.br/">http://lattes.cnpq.br/</a> </li>
-                                <li>Projetos: Alerta Dengue </li>
+                                <li>Lattes: <a href="http://lattes.cnpq.br/0309050626285266">http://lattes.cnpq.br/0309050626285266</a> </li>
+                                <li>Projetos: Media Cloud Brasil</li>
                                 <ul>
                             </p>
                         </div>
@@ -163,7 +160,7 @@
                             <p class="team-member-description">
                                 <ul>
                                 <li>Email: xxxx.xxxx@fgv.br</li>
-                                <li>Lattes: <a href="http://lattes.cnpq.br/">Xxxxxx Xxxxxx</a> </li>
+                                <li>Lattes: <a href="http://lattes.cnpq.br/0309050626285266">http://lattes.cnpq.br/0309050626285266</a> </li>
                                 <li>Projetos: Metabanco Jurídico</li>
                                 <ul>
                             </p>
@@ -179,7 +176,7 @@
                             <p class="team-member-description">
                                 <ul>
                                 <li>Email: xxxx.xxxx@fgv.br</li>
-                                <li>Lattes: <a href="http://lattes.cnpq.br/">http://lattes.cnpq.br/</a> </li>
+                                <li>Lattes: <a href="http://lattes.cnpq.br/0309050626285266">http://lattes.cnpq.br/0309050626285266</a></li>
                                 <li>Projetos: Media Cloud Brasil</li>
                                 <ul>
                             </p>
@@ -198,7 +195,7 @@
                             <h3>Álvaro Justen</h3>
                             <p class="team-member-description">
                                 <ul>
-                                <li>Cargo: xxxx.xxxx@fgv.br</li>
+                                <li>Cargo: </li>
                                 <li>Email: xxxx.xxxx@fgv.br</li>
                                 <li>Lattes: <a href="http://lattes.cnpq.br/">http://lattes.cnpq.br/</a> </li>
                                 <li>Projetos: Metabanco Jurídico e PyPLN</li>
@@ -215,10 +212,10 @@
                             <h3>Flávio Amieiro</h3>
                             <p class="team-member-description">
                                 <ul>
-                                <li>Cargo: xxxx.xxxx@fgv.br</li>
+                                <li>Cargo: </li>
                                 <li>Email: xxxx.xxxx@fgv.br</li>
                                 <li>Lattes: <a href="http://lattes.cnpq.br/">http://lattes.cnpq.br/</a> </li>
-                                <li>Projetos: Alerta Dengue </li>
+                                <li>Projetos: Media Cloud Brasil e PyPLN</li>
                                 <ul>
                             </p>
                         </div>
@@ -231,14 +228,11 @@
                         <div class="span8">
                             <h3>Isabelle Lessa</h3>
                             <p class="team-member-description">
-                                Short discription about your team member.Short discription about your team member.
-                                Short discription about your team member.Short discription about your team member.
-                                Short discription about your team member.Short discription about your team member.
                                 <ul>
-                                <li>Cargo: xxxx.xxxx@fgv.br</li>
-                                <li>Email: xxxx.xxxx@fgv.br</li>
-                                <li>Lattes: <a href="http://lattes.cnpq.br/">http://lattes.cnpq.br/</a> </li>
-                                <li>Projetos: Alerta Dengue </li>
+                                    <li>Cargo: </li>
+                                    <li>Email: xxxx.xxxx@fgv.br</li>
+                                    <li>Lattes: <a href="http://lattes.cnpq.br/">http://lattes.cnpq.br/</a> </li>
+                                    <li>Projetos: Metabanco Jurídico</li>
                                 <ul>
                             </p>
                         </div>
@@ -256,8 +250,8 @@
                                 <ul>
                                     <li>Cargo: Projetos</li>
                                     <li>Email: jcarvalho@ic.uff.br</li>
-                                    <li>Lattes: <a href="http://lattes.cnpq.br/8012521108477385"></a> </li>
-                                    <li>Projetos: ViziCities 3D, Media Cloud Brasil </li>
+                                    <li>Lattes: <a href="http://lattes.cnpq.br/8012521108477385">http://lattes.cnpq.br/8012521108477385</a> </li>
+                                    <li>Projetos: Visualização 3D, Media Cloud Brasil </li>
                                 <ul>
                             </p>
                         </div>
