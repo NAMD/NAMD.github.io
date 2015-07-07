@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Questions - Popular Questions in topic: answers</title>
+    <link>https://answers.atlassian.com</link>
+    <description>Popular Questions in topic: answers</description>
+    <item>
+      <title>Why my customer is not able to view customer portal?</title>
+      <link>https://answers.atlassian.com/questions/19138610/why-my-customer-is-not-able-to-view-customer-portal</link>
+      <description>&lt;p&gt;Why my customer cannot search the solution but admin and collaborator is able to search  the solution&lt;br /&gt;Below is the sample of how the customer search and how the  collaborator search&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;This is the sample how customer search&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;img class="confluence-embedded-image" src="https://answers.atlassian.com/download/attachments/19138610/JIRA.JPG?version=1&amp;amp;modificationDate=1435825634370&amp;amp;api=v2" data-image-src="https://answers.atlassian.com/download/attachments/19138610/JIRA.JPG?version=1&amp;amp;modificationDate=1435825634370&amp;amp;api=v2"&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;This is the sample how to collaborator search&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;img class="confluence-embedded-image" src="https://answers.atlassian.com/download/attachments/19138610/JIRA.JPG?version=1&amp;amp;modificationDate=1435825634370&amp;amp;api=v2" data-image-src="https://answers.atlassian.com/download/attachments/19138610/JIRA.JPG?version=1&amp;amp;modificationDate=1435825634370&amp;amp;api=v2"&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Even my customer has permission in knowledge base&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;&lt;img class="confluence-embedded-image" src="https://answers.atlassian.com/download/attachments/19138610/Capture.JPG?version=1&amp;amp;modificationDate=1436145982922&amp;amp;api=v2" data-image-src="https://answers.atlassian.com/download/attachments/19138610/Capture.JPG?version=1&amp;amp;modificationDate=1436145982922&amp;amp;api=v2"&gt;&lt;br /&gt;&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Any one can help me to answer?&lt;/p&gt;</description>
+      <category>answers</category>
+      <pubDate>Thu, 02 Jul 2015 08:27:14 GMT</pubDate>
+      <guid isPermaLink="false">tag:https://answers.atlassian.com,2014:question-19138610</guid>
+      <dc:creator>kong hongyi</dc:creator>
+      <dc:date>2015-07-02T08:27:14Z</dc:date>
+    </item>
+    <item>
+      <title>Multiple tags search in answers</title>
+      <link>https://answers.atlassian.com/questions/299397/multiple-tags-search-in-answers</link>
+      <description>&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;Is there a way to search for multiple tags in answers instead of just one at a time?&lt;/p&gt;
+&lt;p&gt;E.G. By using this &lt;a href="https://answers.atlassian.com/users/tags/confluence" rel="nofollow"&gt;URL&lt;/a&gt; you'll search for confluence questions, however if I want to search for &amp;quot;Confluence&amp;quot; and &amp;quot;upgrade&amp;quot; questions, how would I use the tagging system?&lt;/p&gt;
+&lt;p&gt;Thanks for any advice! :)&lt;/p&gt;
+&lt;p&gt;Rodrigo&lt;/p&gt;</description>
+      <category>answers</category>
+      <pubDate>Tue, 27 May 2014 04:10:18 GMT</pubDate>
+      <guid isPermaLink="false">tag:https://answers.atlassian.com,2014:question-299397</guid>
+      <dc:creator>Rodrigo Girardi Adami [Atlassian]</dc:creator>
+      <dc:date>2014-05-27T04:10:18Z</dc:date>
+    </item>
+    <item>
+      <title>how to change the state of an issue in jira?</title>
+      <link>https://answers.atlassian.com/questions/18450566/how-to-change-the-state-of-an-issue-in-jira</link>
+      <description>&lt;p&gt;I want to change the state of an issue as soon as it is created (based on a certain condition). I have used the following code to change the state of the issue:&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div class="code panel pdl" style="border-width: 1px;"&gt;&lt;div class="codeContent panelContent pdl"&gt;
+&lt;pre class="theme: Confluence; brush: java; gutter: false" style="font-size:12px;"&gt;JiraWorkflow workflow = ComponentAccessor.getWorkflowManager().getWorkflow(issue);
+StepDescriptor stepDescriptor = workflow.getLinkedStep(issue.getStatusObject());
